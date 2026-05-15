@@ -80,7 +80,7 @@ function printArray() {
 
     itensDoEstoque.forEach((item, i) => {
         console.log(
-            `${i + 1}º Produto: ${item.produto}, \n   Preço: R$${item.valor} \n   Quant: ${item.quantidade}`
+            `${i + 1}º Produto: ${item.produto} \n   Preço: R$${item.valor} \n   Quant: ${item.quantidade}`
         );
     });
 }
