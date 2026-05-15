@@ -30,15 +30,3 @@ Este projeto tem como objetivo praticar:
 ✔️ Editar nome, valor ou quantidade  
 ✔️ Buscar produtos por filtros  
 
----
-
-## 🧠 Como o sistema funciona
-
-Os produtos são armazenados em memória usando um array de objetos:
-
-```js
-{
-  produto: "Nome",
-  valor: 0,
-  quantidade: 0
-}
