@@ -6,8 +6,6 @@
 
 ## 📸 Demonstração do Projeto
 
-![Preview do Sistema](./imagens/preview.png)
-
 > <img width="4096" height="2730" alt="1000312983" src="https://github.com/user-attachments/assets/bf562512-6ce9-415e-b06f-3e6d6427baf2" />
 
 ---
