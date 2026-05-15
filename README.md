@@ -6,11 +6,9 @@
 
 ## 📸 Demonstração do Projeto
 
-<img width="1439" height="2477" alt="1000312982" src="https://github.com/user-attachments/assets/9f618c7c-359d-48b7-90f4-5d78fb27c5fe" />
-
 ![Preview do Sistema](./imagens/preview.png)
 
-> *Adicione aqui uma captura de tela do sistema rodando no terminal.*
+> <img width="4096" height="2730" alt="1000312983" src="https://github.com/user-attachments/assets/bf562512-6ce9-415e-b06f-3e6d6427baf2" />
 
 ---
 
