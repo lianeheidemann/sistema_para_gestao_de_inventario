@@ -7,9 +7,9 @@ const rl = readline.createInterface({
 
 // ================= ESTOQUE =================
 let itensDoEstoque = [
-    { produto: "Roupas", valor: 60, quantidade: 46 },
-    { produto: "Calçados", valor: 80, quantidade: 30 },
-    { produto: "Acessórios", valor: 80, quantidade: 9 }
+    { produto: "Top", valor: 60, quantidade: 46 },
+    { produto: "Croped", valor: 80, quantidade: 30 },
+    { produto: "Calça Leg", valor: 80, quantidade: 9 }
 ];
 
 // ================= PROMPT ASSÍNCRONO =================
@@ -27,7 +27,7 @@ async function menu() {
 
     console.log(`
 1 -> Exibir Estoque Completo
-2 -> Adicionar Item no Estoque
+2 -> Adicionar Item no Estoque  
 3 -> Remover Produto do Estoque
 4 -> Editar Produto
 5 -> Buscar Item
@@ -80,7 +80,7 @@ function printArray() {
 
     itensDoEstoque.forEach((item, i) => {
         console.log(
-            `${i + 1}) Produto: ${item.produto}, Preço: ${item.valor}, Quantidade: ${item.quantidade}`
+            `${i + 1}º Produto: ${item.produto}, \n   Preço: R$${item.valor} \n   Quant: ${item.quantidade}`
         );
     });
 }
