@@ -1,11 +1,27 @@
-# Sistema para Gestão de Loja
+# 📦 Sistema de Controle de Estoque em JavaScript
 
-Sistema de Gerenciamento de Estoque (Loja de Roupas):
-A loja possui os itens: Roupas, calçados e acessórios.
+Projeto simples de gerenciamento de estoque desenvolvido em JavaScript utilizando lógica de programação, arrays, objetos, funções e estruturas de repetição.
 
-Funcionalidades do Sistema:
-1. Adição de novos itens ao estoque (nome, descrição, categoria, tamanho, cor e preço)
-2. Permitir a edição de informações de itens existentes no estoque (Ex: Preço, descrição e quantidade)
-3. Permitir a exclusão de itens do estoque
-4. Permitir a busca de itens (por categoria, tamanho e preço)
-5. Ppermitir a visualização de todos os itens em estoque.
+O sistema funciona via terminal/console e permite adicionar, remover, editar e buscar produtos no estoque.
+
+---
+
+# 🚀 Funcionalidades
+
+- ✅ Exibir estoque completo
+- ✅ Adicionar novos produtos
+- ✅ Remover produtos
+- ✅ Editar informações dos produtos
+- ✅ Buscar itens por:
+  - Nome
+  - Valor
+  - Quantidade
+- ✅ Sistema de menu interativo
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- JavaScript
+- Node.js (opcional para execução)
+
