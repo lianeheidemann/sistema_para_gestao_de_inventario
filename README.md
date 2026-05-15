@@ -1,27 +1,48 @@
-# 📦 Sistema de Controle de Estoque em JavaScript
+# 📦 Sistema de Estoque em Node.js (CLI)
 
-Projeto simples de gerenciamento de estoque desenvolvido em JavaScript utilizando lógica de programação, arrays, objetos, funções e estruturas de repetição.
-
-O sistema funciona via terminal/console e permite adicionar, remover, editar e buscar produtos no estoque.
+> Sistema de gerenciamento de estoque desenvolvido em Node.js, executado diretamente no terminal, com operações de CRUD (Criar, Ler, Atualizar e Deletar).
 
 ---
 
-# 🚀 Funcionalidades
+## 📸 Demonstração do Projeto
 
-- ✅ Exibir estoque completo
-- ✅ Adicionar novos produtos
-- ✅ Remover produtos
-- ✅ Editar informações dos produtos
-- ✅ Buscar itens por:
-  - Nome
-  - Valor
-  - Quantidade
-- ✅ Sistema de menu interativo
+<img width="1439" height="2477" alt="1000312982" src="https://github.com/user-attachments/assets/9f618c7c-359d-48b7-90f4-5d78fb27c5fe" />
+
+![Preview do Sistema](./imagens/preview.png)
+
+> *Adicione aqui uma captura de tela do sistema rodando no terminal.*
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+## 🎯 Objetivo
 
-- JavaScript
-- Node.js (opcional para execução)
+Este projeto tem como objetivo praticar:
 
+- Lógica de programação
+- Manipulação de arrays e objetos
+- Funções assíncronas em JavaScript
+- Uso do módulo `readline`
+- Estruturação de sistemas em CLI
+
+---
+
+## ⚙️ Funcionalidades
+
+✔️ Listar todos os produtos do estoque  
+✔️ Adicionar novos produtos  
+✔️ Remover produtos existentes  
+✔️ Editar nome, valor ou quantidade  
+✔️ Buscar produtos por filtros  
+
+---
+
+## 🧠 Como o sistema funciona
+
+Os produtos são armazenados em memória usando um array de objetos:
+
+```js
+{
+  produto: "Nome",
+  valor: 0,
+  quantidade: 0
+}
