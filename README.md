@@ -7,22 +7,20 @@ JavaScript (Node.js)  |  Interface de linha de comando (CLI)
 
 ## Funcionalidades
 
-✔️ Listar todos os produtos do estoque  
-✔️ Adicionar novos produtos  
-✔️ Remover produtos existentes  
-✔️ Editar nome, valor ou quantidade  
-✔️ Buscar produtos por filtros  
+- Listar todos os produtos do estoque  
+- Adicionar novos produtos  
+- Remover produtos existentes  
+- Editar nome, valor ou quantidade  
+- Buscar produtos por filtros  
 
 
-## Demonstração do Código 1
-JavaScript (Node.js) 
-> <img width="4096" height="2730" alt="1000327416" src="https://github.com/user-attachments/assets/abcc7d45-a507-4007-8c0b-289cb1fbc6ad" />
+## Demonstração
 
+### CLI
+![Inventory CLI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-cli.jpg?raw=true)
 
-## Demonstração do Código 1
-Interface de linha de comando (CLI)
-> <img width="1536" height="1024" alt="1000327415" src="https://github.com/user-attachments/assets/2c243d5a-a7bf-40c1-b83e-fd286657cff0" />
-
+### TUI
+![Inventory TUI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-tui.png?raw=true)
 
 ---
 
