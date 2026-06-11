@@ -21,12 +21,11 @@ JavaScript |  Interface de linha de comando (CLI)
 
 
 ## Demonstração
+**CLI (Command Line Interface)**
+> ![Inventory CLI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-cli.jpg?raw=true)
 
-> **CLI**
-![Inventory CLI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-cli.jpg?raw=true)
-
-> **TUI**
-![Inventory TUI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-tui.png?raw=true)
+**TUI (Text-based User Interface)**
+> ![Inventory TUI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-tui.png?raw=true)
 
 ---
 
