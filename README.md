@@ -1,10 +1,11 @@
-# 📦 Sistema de Estoque de Loja
+# Sistema de Estoque de Loja
+JavaScript (Node.js)  |  Interface de linha de comando (CLI)
 
 > Sistema de gerenciamento de estoque desenvolvido em Node.js, executado diretamente no terminal, com operações de CRUD (Criar, Ler, Atualizar e Deletar).
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 ✔️ Listar todos os produtos do estoque  
 ✔️ Adicionar novos produtos  
@@ -13,9 +14,15 @@
 ✔️ Buscar produtos por filtros  
 
 
-## Demonstração
+## Demonstração do Código 1
+JavaScript (Node.js) 
+> <img width="4096" height="2730" alt="1000327416" src="https://github.com/user-attachments/assets/abcc7d45-a507-4007-8c0b-289cb1fbc6ad" />
 
-> <img width="4096" height="2730" alt="1000312983" src="https://github.com/user-attachments/assets/bf562512-6ce9-415e-b06f-3e6d6427baf2" />
+
+## Demonstração do Código 1
+Interface de linha de comando (CLI)
+> <img width="1536" height="1024" alt="1000327415" src="https://github.com/user-attachments/assets/2c243d5a-a7bf-40c1-b83e-fd286657cff0" />
+
 
 ---
 
