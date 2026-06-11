@@ -22,10 +22,10 @@ JavaScript |  Interface de linha de comando (CLI)
 
 ## Demonstração
 
-### CLI
+> **CLI**
 ![Inventory CLI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-cli.jpg?raw=true)
 
-### TUI
+> **TUI**
 ![Inventory TUI](https://github.com/lianeheidemann/sistema_para_gestao_de_loja/blob/main/picture_inventory-tui.png?raw=true)
 
 ---
